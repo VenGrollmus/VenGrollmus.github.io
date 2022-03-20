@@ -27,6 +27,7 @@ body {
     padding: 5px 30px;
     margin:0px;
     background: #f7fafd;
+    font-size: 18px;
 }
 
 p {
@@ -35,7 +36,13 @@ p {
 /******************************/
 /*         01.02.   Fonts      /
 /******************************/
+h2, h2, h3, h4 {
+    font-family: 'Shadows Into Light', cursive;
+}
 
+body {
+    font-family: 'Antic Slab', serif;
+}
 
 /******************************/
 /*     02. Navigation         */
